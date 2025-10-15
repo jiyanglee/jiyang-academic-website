@@ -1,29 +1,26 @@
 ---
-title: "Simone"
+title: "Jiyang Lee"
 about:
   template: trestles
   image: profile.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    - icon: envelope
+      text: Email
+      href: mailto:jiyang.lee@snu.ac.kr
     - icon: github
       text: Github
       href: https://github.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
     - icon: google
       text: Google Scholar
       href: https://scholar.google.com
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
+<!-- Add your bio here -->
 
 ## Education
 
-Where I studied
+<!-- Add your education history here -->
 
 ## Experience
 
-What I've done
+<!-- Add your experience here -->

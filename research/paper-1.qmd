@@ -1,11 +1,8 @@
 ---
-title: "My First Paper"
+title: "Paper Title"
 author: 
-  - Simone
-  - Matthew DeHaven
-date: "January 01, 2024"
+  - Jiyang Lee
+date: ""
 ---
 
-A description of my paper.
-
-Could include a photo, or links, or anything at all!
+<!-- Add paper description, links, and details here -->
