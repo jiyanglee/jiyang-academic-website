@@ -15,6 +15,6 @@ about:
       href: https://scholar.google.com
 ---
 
-<!-- Add your introduction here -->
+PhD Candidate at Seoul National University
 
 Please feel free to get in touch!

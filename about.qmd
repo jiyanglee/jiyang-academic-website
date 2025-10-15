@@ -15,7 +15,7 @@ about:
       href: https://scholar.google.com
 ---
 
-<!-- Add your bio here -->
+PhD Candidate at Seoul National University
 
 ## Education
 
